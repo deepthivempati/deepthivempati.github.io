@@ -1,5 +1,7 @@
-import java.time.*;
-import java.util.*;
+package src;
+
+import java.time.LocalDate;
+import java.time.Period;
 
 public class AgeCalculation {
     public static void main(String[] args) {
