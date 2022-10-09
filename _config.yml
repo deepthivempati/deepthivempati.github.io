@@ -1,6 +1,6 @@
 
-# theme                  : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes"
+theme                  : "minimal-mistakes-jekyll"
+# remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -10,13 +10,14 @@ title_separator          : "-"
 subtitle                 : "Tech Blogs on Java, SpringBoot, MicroServices"
 name                     : "Deepthi Vempati"
 description              : "Notes & Learnings from programming job"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "https://deepthivempati.github.io"
+baseurl                  : "/"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs             : true # true, false (default)
+include: ["_pages"]
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -96,7 +97,10 @@ author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  baseurl          : '/'
+  location         : "India"
+  repository       : "deepthivempati/github.io"
+  url              : "https://deepthivempati.github.io/"
   email            :
   links:
     - label: "Email"
@@ -266,16 +270,34 @@ compress_html:
     envs: development
 
 
-# Defaults
+# Front Matter Defaults
 defaults:
-  # _posts
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+# _posts
+- scope:
+    path: "_posts"
+    type: posts
+  values:
+    layout: single
+    author_profile: false
+    read_time: true
+    comments: true
+    share: false
+    related: true
+    #  sidebar: true
+# _pages
+- scope:
+    path: "_archives"
+    type: pages
+  values:
+    layout: single
+    author_profile: true
+  # _portfolio
+- scope:
+    path: ""
+    type: portfolio
+  values:
+    layout: single
+    author_profile: false
+    share: true
+
+  github: [metadata]
