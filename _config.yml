@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Deepthi Vempati"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   baseurl          : '/'
@@ -103,7 +103,7 @@ author:
   url              : "https://deepthivempati.github.io/"
   email            :
   links:
-    - label: "Email"
+    - label: "deepthi2135@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
