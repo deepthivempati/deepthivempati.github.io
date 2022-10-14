@@ -5,19 +5,19 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "🅳🅴🅴🅿🆃🅷🅸"
+title                    : #"🅳🅴🅴🅿🆃🅷🅸"
+masthead_title           : "🅳🅴🅴🅿🆃🅷🅸" # overrides the website title displayed in the masthead, use " " for no title
+tagline                  : 'Deepthi'
 title_separator          : "-"
 subtitle                 : "Tech Blogs on Java, SpringBoot, MicroServices"
+logo                     :  '/assets/pics/favicon.ico' # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 name                     : "Deepthi Vempati"
 description              : "Notes & Learnings from programming job"
 url                      : "https://deepthivempati.github.io"
-baseurl                  : "/"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : ""
+repository               : "deepthivempati/deepthivempati" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
-include                  : ["_pages","_posts"]
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -149,6 +149,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
