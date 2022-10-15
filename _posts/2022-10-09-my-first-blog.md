@@ -2,7 +2,7 @@
 title:  "My First Blog"
 date:   2022-10-09 10:54:00
 # layout: posts
-categories: ['General']
+categories: ['Miscellaneous']
 tags: ['Miscellaneous']
 ---
 
