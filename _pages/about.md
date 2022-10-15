@@ -14,7 +14,7 @@ permalink: /about/
 ### Asst.Systems Engineer | Apr 2021 - Present
 
 - **POC**: Pdf generation 
-- **PROJECT**: Reporting(Health-Care)-
+- **PROJECT**: Reporting(Health-Care)
 - **PROJECT**: Excel Generation
  - Done a POC on Generating pdf through Postman on employee details by developing rest Api's and integrating dito template.
  - iText Dito Editor tool is used to generate dito template.
@@ -28,12 +28,12 @@ permalink: /about/
 - 1 Year of IT Industry Experience in Requirement gathering, Planning, Designing, Developing & Debugging Applications for Healthcare Domain using Java, SpringBoot, Bigquery.
 - Hands on Experience in using STS, Eclipse IDE's for developing software Applications.
 
-**SKILLS SUMMARY** : Java, Python, Spring Core, Spring Boot, HTML, CSS, BigQuery,MySql, Project management.
-**IDE & TOOLS** : STS, Eclipse, Bitbucket, Postman, Google Spanner, BQ Console, Notepad++, Jenkins, iText dito Editor, Kubernetes.
+- **SKILLS SUMMARY** : Java, Python, Spring Core, Spring Boot, HTML, CSS, BigQuery,MySql, Project management.
+- **IDE & TOOLS** : STS, Eclipse, Bitbucket, Postman, Google Spanner, BQ Console, Notepad++, Jenkins, iText dito Editor, Kubernetes.
 
 ### B.Tech Graduation| June 2019 - March 2020
-  **MINI-PROJECT**: Online Mobile Store(WEB-Application)
-  **MAJOR-PROJECT**: Liver-Diseases Prediction
+-  **MINI-PROJECT**: Online Mobile Store(WEB-Application)
+-  **MAJOR-PROJECT**: Liver-Diseases Prediction
 - Web based application to purchase mobiles online. It provides users with a catalog of different types of products available to view & purchase from the store.
 - HTML, CSS, JavaScript, MySQL are used to develop this web Application
 - This project aimed to improve liver disease diagnosis using machine learning approaches and classification algorithms based on their performance factors.
