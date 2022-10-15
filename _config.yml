@@ -5,7 +5,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "𝓓𝓮𝓮𝓹𝓽𝓱𝓲 𝓥𝓮𝓶𝓹𝓪𝓽𝓲"
+title                    : "𝕯𝖊𝖊𝖕𝖙𝖍𝖎"
 masthead_title           : "🅳🅴🅴🅿🆃🅷🅸" # overrides the website title displayed in the masthead, use " " for no title
 tagline                  : 'Deepthi'
 title_separator          : "-"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Deepthi Vempati"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I practice what i post."
   baseurl          : '/'
   location         : "India"
   repository       : "deepthivempati/github.io"
@@ -109,40 +109,40 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://deepthivempati.github.io/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      # url: "https://twitter.com/"
+#    - label: "Facebook"
+#      icon: "fab fa-fw fa-facebook-square"
+#      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/deepthivempati"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      # url:
+#    - label: "Facebook"
+#      icon: "fab fa-fw fa-facebook-square"
+#      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/deepthivempati"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://deepthivempati.github.io/"
+#    - label: "GitLab"
+#      icon: "fab fa-fw fa-gitlab"
+#      url:
+#    - label: "Bitbucket"
+#      icon: "fab fa-fw fa-bitbucket"
+#      # url:
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://deepthivempati.github.io/"
 
 
 # Reading Files
