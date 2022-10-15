@@ -6,7 +6,6 @@ categories: ['General']
 tags: ['Miscellaneous']
 ---
 
-# The First Blog
 First blog using jekyll.
 using minimal-mistakes theme
 

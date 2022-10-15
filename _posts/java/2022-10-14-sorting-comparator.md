@@ -5,9 +5,9 @@ categories: ['Java']
 tags: ['Java']
 ---
 
-# Java Sorting Comparator
+{% include toc title="Index" %}
 
-* Stream sorted(Comparator comparator) returns the stream of elements in natural sorted order and reverse sorted order with the provided Comparator.
+Stream sorted(Comparator comparator) returns the stream of elements in natural sorted order and reverse sorted order with the provided Comparator.
 
 # Syntax
 `sorted(Comparator<? super T> comparator)`
