@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Deepthi Vempati"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I practice what i post."
+  bio              : "Java Microservices Developer."
   baseurl          : '/'
   location         : "India"
   repository       : "deepthivempati/github.io"
