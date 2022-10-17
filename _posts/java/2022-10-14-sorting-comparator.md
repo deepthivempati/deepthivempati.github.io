@@ -7,7 +7,7 @@ tags: ['Java']
 
 {% include toc title="Index" %}
 
-Comparator<T> is an interface
+`Comparator<T>` is an interface
 Stream sorted(Comparator comparator) returns the stream of elements in natural sorted order and reverse sorted order with the provided Comparator.
 
 ## Syntax
