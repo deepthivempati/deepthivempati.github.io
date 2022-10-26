@@ -91,7 +91,7 @@ public class nonNullsMethod {
 * thenComparingInt(ToIntFunction<? super T>)
 * thenComparingLong(ToLongFunction<? super T>)
 * thenComparingDouble(ToDoubleFunction<? super T>)
-* reversOrder()
+* reverseOrder()
 * naturalOrder()
 * nullsFirst(Comparator<? super T>)
 * nullsLast(Comparator<? super T>)
