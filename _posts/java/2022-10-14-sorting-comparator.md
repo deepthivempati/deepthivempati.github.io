@@ -49,7 +49,7 @@ return medOrderList;
 if list of medOrderList needs to be sorted in descending(reverse) order.
 ```java
 medOrderList.stream()
-    .sorted(Comparator.comparing(Medication::medicationName).reversed).collect(Collectors.toList()); 
+    .sorted(Comparator.comparing(Medication::medicationName).reversed()).collect(Collectors.toList()); 
 return medOrderList;
 ```
 * reversed() sort the entire list items
@@ -57,11 +57,29 @@ return medOrderList;
 list of medOrderList needs to be sorted in descending(reverse) order and if there are same medications then sort on startDate(current date to previous), the list can be sorted this way.
 ```java
 medOrderList.stream()
-  .sorted(Comparator.comparing(Medication::medicationName).thenComparing(Medication::startDate, Comparator.reverseOrder()).reversed).collect(Collectors.toList());
+  .sorted(Comparator.comparing(Medication::medicationName).thenComparing(Medication::startDate, Comparator.reverseOrder()).reversed()).collect(Collectors.toList());
   return medOrderList;
 ```
 * Comparator.reverseOrder() does not sort the entire list items. it sort the each element with multiple items based on comparion using a key(ex: startDate).
 
+## Syntax nullsLast
+`static <T> Comparator<T> nullsLast (Comparator<T> comparator)`
+* nullsLast method accepts a single parameter as comparator which compares non-null values and returns the result including nulls if contains, considering null as the greater value to non-nulls.
+
+``` java
+public class nonNullsMethod {
+    public static void main(String[] args)
+    {
+        String[] names = { "keerthi", "deepthi", null,
+                             "divya", "nitin", null};
+        Arrays.sort(strings,
+                    Comparator.nullsLast(
+                        Comparator.naturalOrder()));
+        System.out.println(Arrays.toString(strings));
+    }
+} //refer to nitin JAVA STREAM ISSUES for example using list.
+```
+* The result will be as deepthi divya keerthi nitin null null. since nulls are considered as greater value.
 
 # Comparator methods
 
