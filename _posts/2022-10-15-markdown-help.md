@@ -103,3 +103,38 @@ Notice [emphasized](#notices-with-theme) with the `{: .notice--success}` class.
 
 Notice [emphasized](#notices-with-theme) with the `{: .notice--danger}` class.
 {: .notice--danger}
+
+## Enable collapsible code block individually on page
+
+* 1) Add after the front matter on individual page
+* `{::options parse_block_html="true" /}`
+* 2) Add below tags when collapsible code block needs to be enabled
+
+```
+<details>
+<summary markdown ="span">text</summary>
+</details>
+```
+
+## Enable collapsible code block by default
+
+* 1) Add these lines in _config.yml
+
+```
+markdown: kramdown
+  kramdown: 
+    parse_block_html: true
+    parse_span_html: true
+```
+* 2) Add below tags when collapsible code block needs to be enabled
+
+```
+<details>
+<summary>text</summary>
+</details>
+
+```
+
+ 
+
+
