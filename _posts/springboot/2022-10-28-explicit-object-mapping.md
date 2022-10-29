@@ -9,7 +9,10 @@ tags: ['Spring Boot']
 * ChairsideParentDto and ChairsideModelDto are two diff objects. Mapping ChairsideParentDto to ChairsideModelDto. 
 * Consider ChairsideParentDto has data and ChairsideModelDto has no data. populating data from ChairsideParentDto into ChairsideModelDto with explicit mapping with ChairsideParentDto.
 
-```java
+<details>
+<summary markdown="span">Example</summary>
+
+``` java
 // ChairsideParentDto nested model structure (parent class)
 @Data @NoArgsConstructor @AllArgsConstructor
 public class ChairsideParentDto{
@@ -41,7 +44,7 @@ public class ChairsideData {
 }
 ```
 
-```java
+``` java
 // ChairsideModelDto -- plain model structure (parent class)
 @Data @NoArgsConstructor @AllArgsConstructor
 public class ChairsideModelDto {
@@ -90,4 +93,6 @@ return chairsideParentDto;
 return chairsideParent.apply(data.get(0)); data map from ChairsideParentDto to ChairsideModelDto is done and stored in chairsideParent and returning it.
 }
 ```
+</details>
+
 * Note: without disturbing or making operations or manipulating the original list an object is created to set the data.
