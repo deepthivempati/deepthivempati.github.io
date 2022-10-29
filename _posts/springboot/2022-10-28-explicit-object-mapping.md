@@ -4,6 +4,7 @@ date:   2022-10-28 17:26:00
 categories: ['Spring Boot']
 tags: ['Spring Boot']
 ---
+{::options parse_block_html="true" /}
 
 ## overview of mapping one object to other explicitly
 * ChairsideParentDto and ChairsideModelDto are two diff objects. Mapping ChairsideParentDto to ChairsideModelDto. 
