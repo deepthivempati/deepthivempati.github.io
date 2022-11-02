@@ -1,8 +1,8 @@
 ---
 title:  "Collections"
 date:   2022-10-14 18:30:00
-categories: ['Java']
-tags: ['Java']
+categories: ['Spring Boot']
+tags: ['Spring Boot']
 ---
 
 {% include toc title="Index" %}

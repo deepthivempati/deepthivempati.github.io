@@ -1,8 +1,8 @@
 ---
 title:  "Java Sorting Comparator"
 date:   2022-10-14 17:22:00
-categories: ['Java']
-tags: ['Java']
+categories: ['Spring Boot']
+tags: ['Spring Boot']
 ---
 
 {% include toc title="Index" %}
