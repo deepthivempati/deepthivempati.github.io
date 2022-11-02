@@ -14,3 +14,4 @@ tags: ['Java']
 * **JVM(Java Virtual Machine)** --> runs java byteCode.
 * **JRE(Java Runtime Environment)** --> JVM+libraries+other components. Application users use JRE (user who uses developed app--using a website)
 * **JDK(Java Development Kit)** --> JVM+Compilers+Debuggers. Application Developers use JDK
+* In JDK we have 2 parts --> Java compiler(javac.exe and it is an engine which converts source code of program to bytecode) , Interpreter(java.exe and it is an engine which is used to execute byte code of java application)
