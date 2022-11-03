@@ -35,6 +35,7 @@ tags: ['Miscellaneous']
 |   ⌥alt ⇧Shift  C                    |     Recent Changes                                                       |                                   |
 |✅ ⌥alt `Backtick                   | VCS operations                        |                                   |
 |   ^ctrl ⇧Shift F7                      | Highlight All Usages                                                        |                                   |
+|✅ ⇧Shift F6                     | Refactor file name                                                       |                                   |
 
 
 ## Find, Search & Edit, Replace in Files
