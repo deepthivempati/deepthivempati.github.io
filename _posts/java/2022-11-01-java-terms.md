@@ -6,6 +6,7 @@ tags: ['Java']
 ---
 
 ## Overview
+
 * Java converts the basic instructions to the **ByteCode (0,1)**(which is common irrespective of operating system)
 * conversion bytecode to windows Instructions is through(windows JVM --> piece of software) because windows instructions can only understand normal language (or) instructions specific to that OS.
 * ex: windows instructions, linux instructions.

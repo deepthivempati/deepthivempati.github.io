@@ -1,5 +1,5 @@
 ---
-title:  "intellij idea shortcuts"
+title:  "Intellij idea shortcuts"
 date:   2022-11-02 22:28:00
 categories: ['Miscellaneous']
 tags: ['Miscellaneous']
