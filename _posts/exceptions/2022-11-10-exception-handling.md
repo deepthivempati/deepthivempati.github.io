@@ -121,7 +121,7 @@ ex.printStackTrace();
 ```
 ## Ways of using try catch and finally blocks
 * There are many forms to use try catch finally blocks for exceptional handling
-[Link]: (https://www.youtube.com/watch?v=w1lBFIXx12s&list=PLd3UqWTnYXOnT6p6dll1oiKsDu96QGANk&index=18)
+* [Link]: (https://www.youtube.com/watch?v=w1lBFIXx12s&list=PLd3UqWTnYXOnT6p6dll1oiKsDu96QGANk&index=18)
 
 ## Top 10 Exceptions
 * ArrayIndexOutOfBoundsException
