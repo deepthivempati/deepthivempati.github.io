@@ -21,4 +21,4 @@ tags: ['Miscellaneous']
 
 ## Reference
 
-[Link]: (https://nvie.com/posts/a-successful-git-branching-model) 
+[Link](https://nvie.com/posts/a-successful-git-branching-model) 
