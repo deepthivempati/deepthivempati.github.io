@@ -192,7 +192,7 @@ excerpt_separator: "\n\n"
 incremental: false
 
 
-# Markdown Processing
+# Markdown Processingf
 kramdown:
   parse_block_html: false
   parse_span_html: false
@@ -215,7 +215,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 25 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: "Asia/Kolkata" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 

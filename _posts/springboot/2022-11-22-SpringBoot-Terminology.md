@@ -6,7 +6,7 @@ tags: ['Spring Boot']
 ---
 
 ## SpringBoot Terminology Overview
-
+* setting up spring projects before spring boot was not easy as it includes: Dependency Management(pom.xml), Define Web configuration(web.xml), Manage spring Beans(context.xml), Implement Non functional requirements(NFR's). It takes huge time and effort and hard to maintain consistency.
 * **Spring Framework** : Instead of focusing on objects, their dependencies and wiring you can focus on bussiness logic of our application since framework is taking care of dependencies, objects etc and managing lifecycle of objects.
 * **Dependency** :  Dependency is nothing but a ‘Library’ that provides specific functionality that we can use in our application. **Dependency Management** is just a way of managing all the required dependencies in one place and efficiently making use of them. 
 * **Component Scan** : The process of discovering Spring Components within classpath of the application is called Component Scanning in Spring. Used along with the @Configuration annotation to specify the packages that we want to be scanned. @ComponentScan without arguments tells Spring to scan the current package and all of its sub-packages.
