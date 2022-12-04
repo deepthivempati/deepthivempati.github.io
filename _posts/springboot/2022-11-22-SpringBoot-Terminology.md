@@ -73,3 +73,14 @@ public class MyClass {
 * **Spring** : Spring is a lightweight framework.
 * **Spring MVC**: Its a spring module which build web applications in a decoupled approach. ex: Dispatcher servlet, ModelAndView and View Resolver etc.
 * **Spring Framework** : Spring Framework is an application framework and inversion of control container for the Java platform. The framework's core features can be used by any Java application.
+* **Profiles**:  Profiles are a core feature of the framework — allowing us to map our beans to different profiles — for example, dev, test, and prod. We can then activate different profiles in different environments to bootstrap only the beans we need.
+``` java
+//application.properties
+logging.level.org.springframework=info
+spring.profiles.active=dev
+```
+``` java
+//application-dev.properties
+logging.level.org.springframework=debug
+```
+* In the console log we see debug logs but not info since `spring.profiles.active` in application.properties config file is set to dev and its higher env if the `spring.profiles.active` is set to idev then that properties will take priority since idev is higher env than dev.
