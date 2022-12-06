@@ -92,3 +92,6 @@ git rm -r --cached <filename or folder>
 // Then commit the changes
 ```
 
+[ReferenceLink1](https://ndpsoftware.com/git-cheatsheet.html#loc=workspace)
+[ReferenceLink2](https://git-school.github.io/visualizing-git/#cherry-pick)
+
