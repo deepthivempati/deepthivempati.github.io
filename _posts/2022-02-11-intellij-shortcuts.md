@@ -44,3 +44,37 @@ tags: ['Miscellaneous']
 |✅^ctrl N                           | Class (^ctrl N -> File)              | Can begin from  **⇧⇧**            |
 |✅^ctrl F                             |Find in current file                                                       |                                   |
 |✅^ctrl ⇧Shift F                   | Find in Files                                                               |                                   |
+|  alt select             |           select multiple and change at a time                                                   |                       |
+|  ctrl shift N               |       opens files menu                                                       |                      
+|✅ alt ctrl v               |          to declare variables                                                    |                      
+|✅ ctrl g               |       to go directly to specific line in code                                                       |                      
+|✅ ctrl alt m              |    to extract method                                                          |                      
+|✅ ctrl shift i                |     shows method implementation                                                         |                      
+|✅ ctrl shift p            |    shows what return type is expected                                                          |                      
+|✅ ctrl shift b               |    takes to method                                                          |                      
+|✅ ctrl e                |         takes to last method change                                                     |                      
+|✅ ctrl shift v                |    crates an object of assignment                                                          |                      
+|                 |                                                              |                      
+|                 |                                                              |                      
+|                 |                                                              |                      
+|                 |                                                              |                      
+|                 |                                                              |                      
+|                 |                                                              |                      
+|                 |                                                              |                      
+|                 |                                                              |                      
+|                 |                                                              |                      
+|                 |                                                              |                      
+|                 |                                                              |                      
+|                 |                                                              |                      
+|                 |                                                              |                      
+|                 |                                                              |                      
+|                 |                                                              |                      
+|                 |                                                              |                      
+|                 |                                                              |                      
+|                 |                                                              |                      
+|                 |                                                              |                      
+|                 |                                                              |                      
+|                 |                                                              |                      
+|                 |                                                              |                      
+|                 |                                                              |                      
+|                 |                                                              |                      

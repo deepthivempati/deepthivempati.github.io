@@ -16,3 +16,8 @@ tags: ['Java']
 * **JRE(Java Runtime Environment)** --> JVM+libraries+other components. Application users use JRE (user who uses developed app--using a website)
 * **JDK(Java Development Kit)** --> JVM+Compilers+Debuggers. Application Developers use JDK
 * In JDK we have 2 parts --> Java compiler(javac.exe and it is an engine which converts source code of program to bytecode) , Interpreter(java.exe and it is an engine which is used to execute byte code of java application)
+* **Libraries**: A java library is just a collection of classes that have been writtern by somebody else already. you download those classes and tell your computer about them and then you can use those classesin your code.
+ * **Standard libraries**: most used libraries which contains a list of libraries to make work easier.
+ * **Built-in-libraries**: java provides rich set of libraries and its standard library is powerful which contains java.*, java.util, java.lang.,  etc..
+* **Procedural/structured programming**: Thinking in terms of procedures/methods/functions
+* **Objct oriented Proggraming**: Thinking in terms of objects(template), class(instance), data(state), action(method behaviour).
