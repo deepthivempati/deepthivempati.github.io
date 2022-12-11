@@ -20,6 +20,34 @@ tags: ['Spring Boot']
 * b) setter: then the setter is invoked, with the parameter that is determined by the same algorithm like for the field dependency injection
 * c) constructor: then the constructor is invoked with the parameters determined by the same algorithm like for the field dependency injection
 * **@RestController** : It is applied to a class to mark it as a request handler, It converts the response to Json or xml. We can expose the Web Url by annotating the class with @RestController. Spring 4.0 introduced the @RestController annotation in order to simplify the creation of RESTful web services. It's a convenient annotation that combines @Controller and @ResponseBody, which eliminates the need to annotate every request handling method of the controller class with the @ResponseBody annotation. ex: http://localhost:8080.
+* **@Controller**: This is class level annotation that tells spring that the class is controller class where we write all the end points.
+* **Diff B/W @RestController & @Controller**: 
+ * 1. The @Controller is a common annotation which is used to mark a class as Spring MVC Controller while the @RestController is a special controller used in RESTFul web services and the equivalent of @Controller(class level) + @ResponseBody(method level).
+ * 2. One of the key difference between @Controller and @RestController in Spring MVC is that once you mark a class as @RestController then every method is return a domain object(instance of class)(bussiness object which holds data and its behaviour. ex: student object, which holds student data and its behaviour like whether student name, student is properly studying or not) instead of a view(jsp which is a view technology)(view mean which calls the respective jsp page that is placed in (resourses/WEB-INF/resourses/WEB-INF/jsp/filename.jsp), .jsp file is a view.
+ * 3. You don’t need to use the @Controller and the @RestponseBody annotation. Instead you can use the @RestController to provide the same functionality, that means we don’t need to use @ResponseBody on every handler method once you annotate the class with @RestController as shown below.
+* **with @RestController**:
+``` java
+@RestController
+public class Book{
+@RequestMapping(value = "/books", method = RequestMethod.GET)
+public Book getBook(){
+return book;
+}
+}
+```
+* **without @RestController**:
+``` java
+@Controller
+public class Book{
+@RequestMapping(value = "/books", method = RequestMethod.GET)
+@ResponseBody
+public Book getBook(){
+//...
+return book;
+}
+}
+```
+
 * **@GetMapping** : The @GetMapping annotated methods in the @Controller annotated classes handle the HTTP GET requests matched with given URI expression. EX: @GetMapping("/path") --> http://localhost:8080/path.
 * **Diff B/W @RestController & @GetMapping**: RequestMapping is a generic request handler where we can use with GET, POST, PUT or any  other request methods using in method attribute. GetMapping is a specific for GET request method. It is just an extension of RequestMapping to improve clarity.
 * [Link](https://javarevisited.blogspot.com/2021/10/difference-between-requestmapping-and..html#axzz7mbzL0r42)
@@ -36,4 +64,3 @@ tags: ['Spring Boot']
   * c) prefix: The prefix of the properties to bind to this object.
   * d) value: The prefix of the properties to bind to this object.
 * [@ConfigurationProperties](https://www.concretepage.com/spring-boot/spring-boot-configurationproperties)
-*
