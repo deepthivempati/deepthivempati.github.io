@@ -19,7 +19,9 @@ tags: ['Spring Boot']
 
 ## Junit Annotations
 * JUnit Annotations is a special form of syntactic meta-data that can be added to Java source code for better code readability and structure. Variables, parameters, packages, methods and classes can be annotated. Annotations were introduced in Junit4, which makes Java code more readable and simple.
+
 |S.no|Annotations|Description|
+|:--:|:--:|:--:|
 |1.|@Test|This annotation is a replacement of org.junit.TestCase which indicates that public void method to which it is attached can be executed as a test Case.|
 |2.|@Before|This annotation is used if you want to execute some statement such as preconditions before each test case.|
 |3.|@BeforeClass|This annotation is used if you want to execute some statements before all the test cases for e.g. test connection must be executed before all the test cases.|
@@ -31,7 +33,9 @@ tags: ['Spring Boot']
 
 ## JUnit Assert Class
 * This class provides a bunch of assertion methods useful in writing a test case. If all assert statements are passed, test results are successful. If any assert statement fails, test results are failed.
+
 |S.no|Method|Description|
+|:--:|:--:|:--:|
 |1.|void assertEquals(boolean expected, boolean actual)|It checks whether two values are equals similar to equals method of Object class|
 |2.|void assertFalse(boolean condition)|functionality is to check that a condition is false.| 
 |3.|void assertNotNull(Object object)|assertNotNull functionality is to check that an object is not null.|
