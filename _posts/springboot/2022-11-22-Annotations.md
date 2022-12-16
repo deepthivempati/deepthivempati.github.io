@@ -64,3 +64,9 @@ return book;
   * c) prefix: The prefix of the properties to bind to this object.
   * d) value: The prefix of the properties to bind to this object.
 * [@ConfigurationProperties](https://www.concretepage.com/spring-boot/spring-boot-configurationproperties)
+* **@PathVariable**: @PathVariable annotation can be used to handle template variables in the request URI mapping, and set them as method parameters.
+``` java
+@GetMapping("/api/employees/{id}")
+public String getEmployeesById(@PathVariable String id) {
+    return id;
+}```
