@@ -13,7 +13,7 @@ tags: ['Miscellaneous']
 | **mooning**  |  exposing butts |
 | **aroused** |  awake |
 | **tunics** |  type of garment |
-| **obliged**  |  thanks for help |
+| **obliged**  |  bound to something and act accordingly|
 | **affirmation**  | sign of true   |
 | **magma** |molten rock material   |
 | **chilly cold**| lacking wamth of feeling  |
@@ -96,3 +96,49 @@ tags: ['Miscellaneous']
 | **meticulous** | become unlawful  |
 | **stiffle** | make someone unable to breathe properly  |
 | **Quid pro quo** | reciprocal exchange to something, favour   |
+|**counterfeit**|imitation of something valuable with deceiving and defraud intention|
+|**defunct**|no longer existing or functioning|
+|**trepidation**|a feeling of fear or anxiety about that may happen|
+|**conman**|a man who cheats or tricks someone by gaining thier trust|
+|**sagged**|exhausted|
+|**diction**|the choice and useof words and phrases in speech or writing|
+|**tantrun**|uncontrolled outburst of anger|
+|**valet**|a person employed to clean orpark cars|
+|**peek**|look quickly through windows or curtains|
+|**swirl**|move in twisting or spiralling pattern ex:swiriling the drink in the glass|
+|**bashing**|fierce criticism or opposition|
+|**delve**|to examine a thing in deep|
+|**outsource**|contract out|
+|**wearout**|become useless from excessive wear or use|
+|**levitate**|to rise or float in air.ex: magician levitated women|
+|**anti reflux**|a treatment for acid reflux, food or stomach acid comes back up from your stomach into esophagus|
+|**parlance**|particular way of speaking or using words|
+|**ellipsis**|... 3 dots used for supression of parts of words or sentences|
+|**flamboyant**|person with behaviour tending to attract girls with confidence and stylishness|
+|**derogatory**|showing a critical and disrespectful attitude|
+|**switchflip moments**|skateboarding|
+|**colossal**|extremely large|
+|**uplifting**|udharinchadam|
+|**perspiration**|the process of sweating|
+|**refute**|disprove|
+|**beaming**|smiling broadly|
+|**bikering**|argue about pretty and trivial matters|
+|**trivial**|little value or importance|
+|**patio**|outdoor space of an house|
+|**enthralling**|keeping someones interest ot attention completely|
+|**ogling**|provocating looks, greedy or interested looks at someone|
+|**euphemism**|a word or phrase used to avoid saying an unpleasant or offensive word|
+|**pun**|make a joke using words which sound alike but have different meaninghs|
+|**sceptical**|not  easily convinced|
+|**entangled**|involved someone in difficulties or complicated circumstances from which it s difficult to escape|
+|**semantics**|defination|
+|**retrospective**|lookong back or dealing with past events|
+|**twirling hair**|spin quickly and lightly|
+|**clinging**|to hold fast , sticking or embracing to something closely|
+|**entwine**|to wrap around someone or something , allukupodam|
+|**premordial**|in the earliest stage of development, beginning|
+|**orators**|public speaker|
+|**subsides**|become less intense|
+|**constricted**|process of becoming tighter and narrower|
+|**nudges**|a light touch or push|
+|**intuition**|ability to understand something without conscious reasoning|
