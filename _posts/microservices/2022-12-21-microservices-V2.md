@@ -1,6 +1,6 @@
 ---
 title:  "Microservices-V2"
-date:   2022-12-22 17:22:00
+date:   2022-12-21 17:22:00
 categories: ['Microservices']
 tags: ['Microservices']
 ---
@@ -10,7 +10,7 @@ tags: ['Microservices']
 ### Microservices V2 - NEW features
 * Microservices Evolve Quickly. 
 * Important Updates:
-* Latest versions of Spring Boot and Spring Cloud
+* Latest versions of Spring Boot and Spring Cloud. Spring cloud config server is the microservice where multiple microservices are connected to for the consistent configuration.
   * Spring cloud LoadBalancer instead of Ribbon
   * Spring cloud Gateway instead of Zuul
   * Resilience4j instead of Hystix
@@ -37,9 +37,10 @@ tags: ['Microservices']
    
 ## What is the use of ribbon-loadbalancer?
 * The Ribbon mainly provides client-side load balancing algorithms. It is a client-side load balancer that provides control over the behavior of HTTP and TCP client. The important point is that when we use Feign, the Ribbon also applies. ribbon-loadbalancer: It is a Load balancer API that can be used independently or with other modules.
+![Image](/assets/pics/ribbonloadbalancer.png){:class="img-responsive"}
 
 ## What Is Hystrix?
 * Hystrix is a Latency and Fault Tolerance Library for Distributed Systems It is a latency and fault tolerance library designed to isolate points of access to remote systems, services, and 3rd-party libraries in a distributed environment.
 
-* How to handle fault tolerance in microservices with hystrix & How to Implement Hystrix Circuit Breaker in Microservices Application?
+**How to handle fault tolerance in microservices with hystrix & How to Implement Hystrix Circuit Breaker in Microservices Application?**
 * Hystrix implements the Circuit Breaker pattern. You don’t have to write the network or thread programming to handle fault tolerance in the Microservices. You need to use Hystrix library just by giving parameters and that’s it. Hystrix is going to do all the work for you internally. The best part of it is that it works amazingly with Spring Boot.
