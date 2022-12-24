@@ -1,6 +1,6 @@
 ---
-title:  "Generics Intro"
-date:   2022-11-26 18:47:00
+title:  "Design Patterns"
+date:   2022-12-23 18:47:00
 categories: ['Java']
 tags: ['Java']
 ---
