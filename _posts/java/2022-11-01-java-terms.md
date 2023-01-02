@@ -21,3 +21,7 @@ tags: ['Java']
  * **Built-in-libraries**: java provides rich set of libraries and its standard library is powerful which contains java.*, java.util, java.lang.,  etc..
 * **Procedural/structured programming**: Thinking in terms of procedures/methods/functions
 * **Objct oriented Proggraming**: Thinking in terms of objects(template), class(instance), data(state), action(method behaviour).
+* **Serialization**: Serialization is the conversion of an object to a series of bytes, so that the object can be easily saved to persistent storage( any data storage device that retains data after power to that device is shut off) or streamed across a communication link. 
+* **Deserialization**: converting into a replica of the original object. 
+
+ 
