@@ -7,48 +7,48 @@ tags: ['Miscellaneous']
 
 ## English Vocabulary
 
-|  Word  | Meaning |    
-|:--:| :---- |
-| **Smear** | Damage |
-| **mooning**  |  exposing butts |
-| **aroused** |  awake |
-| **tunics** |  type of garment |
-| **obliged**  |  bound to something and act accordingly|
-| **affirmation**  | sign of true   |
-| **magma** |molten rock material   |
-| **chilly cold**| lacking wamth of feeling  |
-| **optimistic** |  expecting good things to happen |
-| **pessimistic** | believe that worst thing will happen |
-| **acclaimed** |publicaly praised   |
-| **renowed** | famous  |
-| **mysticism** | the experience of mystical union |
-| **sermons** | a talk on a religious or moral subject  |
-| **beacon** | someone who encourage  |
-| **legion** | division of 3k-6k men  |
-| **squint** | to look at something with partially closed eyes  |
-| **verses** |  having a rhyme |
-| **embarked**  |to begin   |
-| **imaginary mold** | decaying organic matter  |
-| **meager** | lacking in qaulity and quantity  |
-| **abject** | terrible and without hope  |
-| **mediocre** |  of only average quality |
-| **melancholy**  | a feeling of pensive sadness  |
-| **tantrum**  | uncontrolled outburst of anger  |
-| **affiliations**  |state or relation of being closely associated   |
-| **appeal** | request,attract  |
-| **liturgy** | script of religious service  |
-| **incantation**  |use of words as magic spell   |
-| **acclaimed**  | publically prasied  |
-| **mend**  |repair   |
-| **surreal** | not real,strange  |
-| **winder** |reel   |
-|  **charred** |burnt   |
-| **caprie diem**  | live in the moment  |
-| **vain**  | showing high opinion of ones worth or appereance  |
-| **salvation** | being saved from sin,redemption  |
-| **substantial** |considerable size,large   |
-| **futility** | pointlessness or senseless  |
-| **fanatical** | excwssive zeal, extremist  |
+|  Word  | Meaning | Word | Meaning |
+|:--:| :---- | :--:| :---- |
+| **Smear** | Damage | **Flaunt**| display proudly or show off|
+| **mooning**  |  exposing butts | **flattery**| praising someone when you do not really mean it expecting something from them|
+| **aroused** |  awake | **obsolete** | not in use anymore, replaced by something new |
+| **tunics** |  type of garment | **sub-servient** | too ready to obey other people orders, submissive|
+| **obliged**  |  bound to something and act accordingly| **greviences** | cause for complaint, especially unfair treatment|
+| **affirmation**  | sign of true   | **condescending** | showing superior attitude to others|
+| **magma** |molten rock material   | **binge-watch** | to watch multiple videos or episodes of a tv programmes in short period |
+| **chilly cold**| lacking wamth of feeling  | **vinyl** | strong plastic used for making wall and floor covers |
+| **optimistic** |  expecting good things to happen | **parley** | informal discussion to end an argument or war especially between enemies|
+| **pessimistic** | believe that worst thing will happen | **avid** | having or showing keen interest or enthusiasm for something |
+| **acclaimed** |publicaly praised   | **orthodox** | closely following the old, traditional beliefs, ceremonies etc |
+| **renowed** | famous  | **flare-up** | sudden outburst of something |
+| **mysticism** | the experience of mystical union | **extravagant** | spending or costing too much money |
+| **sermons** | a talk on a religious or moral subject  | **erratic** | change without reason (describes about persons behaviour) |
+| **beacon** | someone who encourage  | **rudimentary** | very basic or simple |
+| **legion** | division of 3k-6k men  | **canope** | shade under the tree|
+| **squint** | to look at something with partially closed eyes  | **reluctant** | not wanting to do something because you are not sure it is the right thing to do |
+| **verses** |  having a rhyme | **Anuptaphobia** | fear of never able to find the love |
+| **embarked**  |to begin   | **exquisite** | extremely beautiful & delicate |
+| **imaginary mold** | decaying organic matter  | **Intuitively** | able to understand something without any direct evidence or reasoning process |
+| **meager** | lacking in qaulity and quantity  | **exaggerate** | to make something seem larger, better, worst than it really is |
+| **abject** | terrible and without hope  | **indecisive** | not able to make decisions easily |
+| **mediocre** |  of only average quality | **resilience** | ability to bounce back from difficult times in life |
+| **melancholy**  | a feeling of pensive sadness  | **subsidiary** | company that belongs to and controlled by bigger company |
+| **tantrum**  | uncontrolled outburst of anger  | **alpha male** | dominant make animal in particular group |
+| **affiliations**  |state or relation of being closely associated | **perceived** | to notice or realize something | 
+| **appeal** | request,attract  | **toddler** | a baby child who has only just learnt to walk |
+| **liturgy** | script of religious service  | **pestering** | to annoy somebody (ex: by asking something many times) |
+| **incantation**  |use of words as magic spell   | **lull** | calm or send to sleep, typically with soothing sounds or movements |
+| **acclaimed**  | publically prasied  | **nomanclature** | Nomenclature is a system for giving names to things whithin a particular profession or field. classification, terminology |
+| **mend**  |repair| **reckon** | to think, to have opinion about something |
+| **surreal** | not real,strange  | **ecstacy** | a feeling or state of great happiness |
+| **winder** |reel | **cognizance** | knowledge of something especially through personal experience |
+|  **charred** |burnt | **foresight** | ability to see what will probably happen in the future |
+| **caprie diem**  | live in the moment  | **clairvoyant** | a person who some people believe has special mental powers and can see what will happen in the future |
+| **vain**  | showing high opinion of ones worth or appereance | **clairaudience** | the power or faculty of hearing something not present to the ear but regarded as having objective reality |
+| **salvation** | being saved from sin,redemption  | **tonsure** | shaving some or all of the hair on scalp as a religious ceremony |
+| **substantial** |considerable size,large   | **Objective** | making an unbiased balanced observation based on facts which can be verified |
+| **futility** | pointlessness or senseless  | **Subjective** | making assumptions and interpretations based on personal opinion where there are no verifiable facts |
+| **fanatical** | excessive zeal, extremist  |
 | **forbade** | refusing  |
 | **prophecy**  | prediction of what will happen in future  |
 | **bummer**  | disappointing or unpleasent  |
