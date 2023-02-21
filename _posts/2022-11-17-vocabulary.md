@@ -48,97 +48,97 @@ tags: ['Miscellaneous']
 | **salvation** | being saved from sin,redemption  | **tonsure** | shaving some or all of the hair on scalp as a religious ceremony |
 | **substantial** |considerable size,large   | **Objective** | making an unbiased balanced observation based on facts which can be verified |
 | **futility** | pointlessness or senseless  | **Subjective** | making assumptions and interpretations based on personal opinion where there are no verifiable facts |
-| **fanatical** | excessive zeal, extremist  |
-| **forbade** | refusing  |
-| **prophecy**  | prediction of what will happen in future  |
-| **bummer**  | disappointing or unpleasent  |
-| **retrospective**  | looking back on or dealing with past events  |
-| **fluke** | unlikely chance occurence,surprising piece of luck  |
-| **leaps** | jumps  |
-| **cata pult** | device that can throw objects  |
-| **hindsights** |understand something after it has developed or happened   |
-| **oblige** |make someone legally or morally bound to something   |
-| **wiggle** |move up and down with small rapid movements(wiggling worm)   |
-| **garba**  | traditional gujarathi folk dance  |
-| **rationality** |like a phobia(quality 0f being based on reason or logic)   |
-| **calisthenics**  |gymnastic exercise for fitness of grace of movement   |
-| **Lure** | tempting  |
-| **cenote** | a natural underground reserviour of water  |
-| **interoperable** | exchangable  |
-| **diversified** | expanded to large extent  |
-| **corpus** | a collection of writtern texts  |
-| **rough & tumble** | a situation without rules or organisation  |
-| **disguise** |   |
-| **brunch** | a late morning meal eaten instead of breakfast & lunch  |
-| **anticipation** | expectation  |
-| **resilience** |  the capacity to recover quickly from something |
-| **performance alert** | tell you when your performance is slower than usual  |
-| **aghast** | filled with fear or shock  |
-| **ignite** | catch fire  |
-| **quench**  | satisfy  |
-| **conviction** | a firmly held belief or opinion   |
-| **substantial** | considerable importance or worthfull |
-| **incipient** | beginning to happen or develop  |
-| **endowed** |  provide with a quality or ability |
-| **creep** | move slowly and carefully  |
-| **fiesty** | showing courage or determined |
-| **vantage** | a place or position affording a good view of something  |
-| **emphasize** | give value or special importance to something  |
-| **whining** | making of a long high pitched cry  |
-| **obligation** | bounded by legal or moral value  |
-| **fickle** | changing frequently  |
-| **casanova** | man who gives great attention to women. romantic  |
-| **derogatory** | showing critical or disrespectful attitude  |
-| **embrace** | hold closely in ones arms..especially a sign of affection  |
-| **hyprocrisy** | the practice of claiming have high standards than that exists |
-| **trait**  | a characteristic or distinguishing quality  |
-| **conspiracy** | to join in secret agreement  |
-| **meticulous** | become unlawful  |
-| **stiffle** | make someone unable to breathe properly  |
-| **Quid pro quo** | reciprocal exchange to something, favour   |
-|**counterfeit**|imitation of something valuable with deceiving and defraud intention|
-|**defunct**|no longer existing or functioning|
-|**trepidation**|a feeling of fear or anxiety about that may happen|
-|**conman**|a man who cheats or tricks someone by gaining thier trust|
-|**sagged**|exhausted|
-|**diction**|the choice and useof words and phrases in speech or writing|
-|**tantrun**|uncontrolled outburst of anger|
-|**valet**|a person employed to clean orpark cars|
-|**peek**|look quickly through windows or curtains|
-|**swirl**|move in twisting or spiralling pattern ex:swiriling the drink in the glass|
-|**bashing**|fierce criticism or opposition|
-|**delve**|to examine a thing in deep|
-|**outsource**|contract out|
-|**wearout**|become useless from excessive wear or use|
-|**levitate**|to rise or float in air.ex: magician levitated women|
-|**anti reflux**|a treatment for acid reflux, food or stomach acid comes back up from your stomach into esophagus|
-|**parlance**|particular way of speaking or using words|
-|**ellipsis**|... 3 dots used for supression of parts of words or sentences|
-|**flamboyant**|person with behaviour tending to attract girls with confidence and stylishness|
-|**derogatory**|showing a critical and disrespectful attitude|
-|**switchflip moments**|skateboarding|
-|**colossal**|extremely large|
-|**uplifting**|udharinchadam|
-|**perspiration**|the process of sweating|
-|**refute**|disprove|
-|**beaming**|smiling broadly|
-|**bikering**|argue about pretty and trivial matters|
-|**trivial**|little value or importance|
-|**patio**|outdoor space of an house|
-|**enthralling**|keeping someones interest ot attention completely|
-|**ogling**|provocating looks, greedy or interested looks at someone|
-|**euphemism**|a word or phrase used to avoid saying an unpleasant or offensive word|
-|**pun**|make a joke using words which sound alike but have different meaninghs|
-|**sceptical**|not  easily convinced|
-|**entangled**|involved someone in difficulties or complicated circumstances from which it s difficult to escape|
-|**semantics**|defination|
-|**retrospective**|lookong back or dealing with past events|
-|**twirling hair**|spin quickly and lightly|
-|**clinging**|to hold fast , sticking or embracing to something closely|
-|**entwine**|to wrap around someone or something , allukupodam|
-|**premordial**|in the earliest stage of development, beginning|
-|**orators**|public speaker|
-|**subsides**|become less intense|
-|**constricted**|process of becoming tighter and narrower|
-|**nudges**|a light touch or push|
-|**intuition**|ability to understand something without conscious reasoning|
+| **fanatical** | excessive zeal, extremist  |**hyperdontia**|extra teeth in the mouth|
+| **forbade** | refusing  |**acronym**|abbrevation formed from the initial letters of other words and pronounced as a word(SMS)|
+| **prophecy**  | prediction of what will happen in future  |**bereft**|lacking of something(ex: bereft of knowledge etc)|
+| **bummer**  | disappointing or unpleasent  |**kneeled**|fall on to knees|
+| **retrospective**  | looking back on or dealing with past events  |**dawn**|period in the day when light from the sum begins to appear in the sky|
+| **fluke** | unlikely chance occurence,surprising piece of luck  |**stranded**|anything that is left behind or stuck |
+| **leaps** | jumps  |**fair-weather**|suitable for outdoor activites|
+| **cata pult** | device that can throw objects  |**fair-weather-friend**|a person whose friendship cannot be relied on in the times of difficulty|
+| **hindsights** |understand something after it has developed or happened   |**ripple**|a small or series of waves on the surface of water|
+| **oblige** |make someone legally or morally bound to something   |**grit**|small loose particles of stone or sand(ex:bit of grid in the eye)|
+| **wiggle** |move up and down with small rapid movements(wiggling worm)   |**unwind**|undo or to be undone|
+| **garba**  | traditional gujarathi folk dance  |**camouflage**|hide the presence of person, animal or object by covering them to make them blend in with their surroundings(ex: military personnel)|
+| **rationality** |like a phobia(quality 0f being based on reason or logic)   |**lambasting**|critisizing harshly|
+| **calisthenics**  |gymnastic exercise for fitness of grace of movement   |**sabotage**|deliberately destroy, damage or obstruct something especially for political reason|
+| **Lure** | tempting  |**resentment**|bitter indignation at having been treated unfairly|
+| **cenote** | a natural underground reserviour of water  |**nauseous**|feeling inclined to vomit|
+| **interoperable** | exchangable  |**noxious**|harmful, poisonous|
+| **diversified** | expanded to large extent  |**embroiled**|involve deeply in an argument,conflict or in some situation|
+| **corpus** | a collection of writtern texts  |**grenade**|a small bomb thrown by hand|
+| **rough & tumble** | a situation without rules or organisation  |**snap-twice**|chitika veyyadam|
+| **disguise** |   |**vandalism**|damage or destruction to public or private property|
+| **brunch** | a late morning meal eaten instead of breakfast & lunch  |**self-compassion**|being warm and understanding toward ourselves when we suffer, fail, or feel inadequate, rather than ingoring our pain or blaming ourself with self-critism|
+| **anticipation** | expectation  |**allure**|the quality of being powerfully and mysteriously attractive or fascinating|
+| **resilience** |  the capacity to recover quickly from something |**pesting**|trouble or annoy with frequent continuous requests or interrupting|
+| **performance alert** | tell you when your performance is slower than usual  |**excruciatingly**|extremely painful|
+| **aghast** | filled with fear or shock  |**evangelize**|convert or seek to convert to christianity|
+| **ignite** | catch fire  |**unsolicited**|offering without being asked(unsolicited advice)|
+| **quench**  | satisfy  |**supremecy**|the state of being superior to all others in authority, power or status|
+| **conviction** | a firmly held belief or opinion   |**inflating**|ubbipovadam, blown up(Ex:inflating a baloon)|
+| **substantial** | considerable importance or worthfull |**eminent**|famous and respected within a particular sphere|
+| **incipient** | beginning to happen or develop  |**ecstacy**|feeling or expressing overwhelming happiness or joyful excitement|
+| **endowed** |  provide with a quality or ability |**timid**|showing lack of courageor confidence|
+| **creep** | move slowly and carefully  |**bashed**|strike hard and violently|
+| **fiesty** | showing courage or determined |**repercussion**|an unintended consequence of an event or action, especially unwelcomed one|
+| **vantage** | a place or position affording a good view of something  |**gawky**|nervously awkward and ungainly|
+| **emphasize** | give value or special importance to something  |**proliferation**|rapid increase in the number or amount of something|
+| **whining** | making of a long high pitched cry  |**enforcement**|the process of making people obey a law or rule or making particular situation hapen or to be accepted|
+| **obligation** | bounded by legal or moral value  |**hoar**|grey haired with age|
+| **fickle** | changing frequently  |**lethargic**|feeling sleepy or fatigued(related to underlying physical or mental condition)|
+| **casanova** | man who gives great attention to women. romantic  |**squash**|crush or squeeze something|
+| **derogatory** | showing critical or disrespectful attitude  |**convention**|trying to convey a particular meaning according to an agreed original fact/ a way in which something is usually done|
+| **embrace** | hold closely in ones arms..especially a sign of affection  |**consolidate**|combine or include|
+| **hyprocrisy** | the practice of claiming have high standards than that exists |**fatigue**|extreme tiredness resulting from mental or physcical illness|
+| **trait**  | a characteristic or distinguishing quality  |**jolt**|push or shake abruptly and roughly|
+| **conspiracy** | to join in secret agreement  |**break shoe**|its a part of braking system of vehicle or any object|
+| **meticulous** | become unlawful  |**crass behaviour**|showing no intelligence or sensitivity|
+| **stiffle** | make someone unable to breathe properly  |**diligently**|way of showing care and conscientiousness in ones work or duties|
+| **Quid pro quo** | reciprocal exchange to something, favour   |**caress**|touch or stroke gently or lovingly|
+|**counterfeit**|imitation of something valuable with deceiving and defraud intention|**thong**|strip|
+|**defunct**|no longer existing or functioning|**brassiere**|full form of bra|
+|**trepidation**|a feeling of fear or anxiety about that may happen|**vent**|outletting of free and strong expression/ to express a negative emotion in a foreful and often unfair way(Ex:its okay to vent on friends) |
+|**conman**|a man who cheats or tricks someone by gaining thier trust|**wreak**|to cause something to happen in an uncontrolled and violent way(ex: determined to wreak revenge)|
+|**sagged**|exhausted|**vengeance**|punishing of someone for harming you or your friends or family|
+|**diction**|the choice and useof words and phrases in speech or writing|**provoke**|rechagottadam|
+|**tantrun**|uncontrolled outburst of anger|**tentative**|not certain or fixed|
+|**valet**|a person employed to clean orpark cars|**languish**|grow weak|
+|**peek**|look quickly through windows or curtains|**asmr**|autonomous sensory meridian response is a tingling sensation that begins on scalp and moves down back of the neck|
+|**swirl**|move in twisting or spiralling pattern ex:swiriling the drink in the glass|**flint**|hard grey rock consisting of nearly pure silica|
+|**bashing**|fierce criticism or opposition|**consortium**|an association, typically of several companies|
+|**delve**|to examine a thing in deep|**leverage**|use something that you have already have in order to achieve something new or better(Ex: gain success of market by leveraging our network|
+|**outsource**|contract out|**audacity**|willingness to take bold risks|
+|**wearout**|become useless from excessive wear or use|**to shred & crumble paper**|to tear and crush the paper|
+|**levitate**|to rise or float in air.ex: magician levitated women|**revere**|feel deep respect or admiration for something|
+|**anti reflux**|a treatment for acid reflux, food or stomach acid comes back up from your stomach into esophagus|**simulated**|to do or make something that is real but is not real(replica)|
+|**parlance**|particular way of speaking or using words|||
+|**ellipsis**|... 3 dots used for supression of parts of words or sentences|||
+|**flamboyant**|person with behaviour tending to attract girls with confidence and stylishness|||
+|**derogatory**|showing a critical and disrespectful attitude|||
+|**switchflip moments**|skateboarding|||
+|**colossal**|extremely large|||
+|**uplifting**|udharinchadam|||
+|**perspiration**|the process of sweating|||
+|**refute**|disprove|||
+|**beaming**|smiling broadly|||
+|**bikering**|argue about pretty and trivial matters|||
+|**trivial**|little value or importance|||
+|**patio**|outdoor space of an house|||
+|**enthralling**|keeping someones interest ot attention completely|||
+|**ogling**|provocating looks, greedy or interested looks at someone|||
+|**euphemism**|a word or phrase used to avoid saying an unpleasant or offensive word|||
+|**pun**|make a joke using words which sound alike but have different meaninghs|||
+|**sceptical**|not  easily convinced|||
+|**entangled**|involved someone in difficulties or complicated circumstances from which it s difficult to escape|||
+|**semantics**|defination|||
+|**retrospective**|lookong back or dealing with past events|||
+|**twirling hair**|spin quickly and lightly|||
+|**clinging**|to hold fast , sticking or embracing to something closely|||
+|**entwine**|to wrap around someone or something , allukupodam|||
+|**premordial**|in the earliest stage of development, beginning|||
+|**orators**|public speaker|||
+|**subsides**|become less intense|||
+|**constricted**|process of becoming tighter and narrower|||
+|**nudges**|a light touch or push|||
+|**intuition**|ability to understand something without conscious reasoning|||
