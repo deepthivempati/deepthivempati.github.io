@@ -12,15 +12,15 @@ $intro-transition  : true;
 $global-transition : none;
 
 /* Colors Air Skin*/
-$background-color: #eeeeee !default;
+// $background-color: #eeeeee !default;
 $text-color: #222831 !default;
 $muted-text-color: #393e46 !default;
 $primary-color: #0092ca !default;
 $border-color: mix(#fff, #393e46, 75%) !default;
 $footer-background-color: $primary-color !default;
 $link-color: #393e46 !default;
-// $masthead-link-color: $text-color !default;
-// $masthead-link-color-hover: $text-color !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 
 #main {
@@ -74,8 +74,33 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
     max-width: none;
   }
   .masthead {
-    border-bottom: 4px solid #cf9a69
+    // border-bottom: 4px solid #cf9a69
   }
+
+  .archive__subtitle::after {
+      background: $primary-color;
+      content: '';
+      display: block;
+      height: 2px;
+      margin: 0.75em auto 0 auto;
+      position: relative;
+      width: 4em;
+    }
+
+    .archive__subtitle {
+        font-size: $type-size-5;
+        color: $muted-text-color;
+        font-weight: 800;
+        letter-spacing: .25em;
+        line-height: 1.65;
+        text-transform: uppercase;
+        text-align: center;
+        border-bottom: 0px solid #bfbfbf;
+
+        + .list__item .archive__item-title {
+          margin-top: 0.5em;
+        }
+      }
 
   .page__title {
     margin-top: 0;
@@ -108,7 +133,7 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
   }
 
   .toc {
-//     text-transform: uppercase;
+    text-transform: uppercase;
     letter-spacing: 1px;
   }
 
@@ -120,9 +145,8 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
     //font-size: 0.6875em;
     padding: 0.25rem 0.75rem;
   }
-  }
-p>code,a>code,li>code,figcaption>code,td>code {
-    background: #aeeeca;
 }
+
+
 
 
