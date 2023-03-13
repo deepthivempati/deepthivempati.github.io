@@ -6,7 +6,7 @@ tags: ['Spring Boot']
 ---
 
 {% include toc title="Index" %}
-**CRUD operation spring program to find student by id with get and post request**
+**CRUD (CREATE,READ,UPDATE,DELETE)operation spring program to find student by id with get and post request**
 
 ## Example-1:
 ### Here's an example Spring program that demonstrates how to perform CRUD operations and implement GET and POST requests to find a student by their ID.
