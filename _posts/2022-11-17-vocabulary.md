@@ -112,33 +112,69 @@ tags: ['Miscellaneous']
 |**wearout**|become useless from excessive wear or use|**to shred & crumble paper**|to tear and crush the paper|
 |**levitate**|to rise or float in air.ex: magician levitated women|**revere**|feel deep respect or admiration for something|
 |**anti reflux**|a treatment for acid reflux, food or stomach acid comes back up from your stomach into esophagus|**simulated**|to do or make something that is real but is not real(replica)|
-|**parlance**|particular way of speaking or using words|||
-|**ellipsis**|... 3 dots used for supression of parts of words or sentences|||
-|**flamboyant**|person with behaviour tending to attract girls with confidence and stylishness|||
-|**derogatory**|showing a critical and disrespectful attitude|||
-|**switchflip moments**|skateboarding|||
-|**colossal**|extremely large|||
-|**uplifting**|udharinchadam|||
-|**perspiration**|the process of sweating|||
-|**refute**|disprove|||
-|**beaming**|smiling broadly|||
-|**bikering**|argue about pretty and trivial matters|||
-|**trivial**|little value or importance|||
-|**patio**|outdoor space of an house|||
-|**enthralling**|keeping someones interest ot attention completely|||
-|**ogling**|provocating looks, greedy or interested looks at someone|||
-|**euphemism**|a word or phrase used to avoid saying an unpleasant or offensive word|||
-|**pun**|make a joke using words which sound alike but have different meaninghs|||
-|**sceptical**|not  easily convinced|||
-|**entangled**|involved someone in difficulties or complicated circumstances from which it s difficult to escape|||
-|**semantics**|defination|||
-|**retrospective**|lookong back or dealing with past events|||
-|**twirling hair**|spin quickly and lightly|||
-|**clinging**|to hold fast , sticking or embracing to something closely|||
-|**entwine**|to wrap around someone or something , allukupodam|||
-|**premordial**|in the earliest stage of development, beginning|||
-|**orators**|public speaker|||
-|**subsides**|become less intense|||
-|**constricted**|process of becoming tighter and narrower|||
-|**nudges**|a light touch or push|||
-|**intuition**|ability to understand something without conscious reasoning|||
+|**parlance**|particular way of speaking or using words|**briskly**|energrtic way|
+|**ellipsis**|... 3 dots used for supression of parts of words or sentences|**drooling**|drop saliva uncontrollably from mouth|
+|**flamboyant**|person with behaviour tending to attract girls with confidence and stylishness|**loopy**|mad or silly|
+|**derogatory**|showing a critical and disrespectful attitude|**nuance**|a slight diff in shade of meaning, expression or sound|
+|**switchflip moments**|skateboarding|**defenestration**|throw out of window|
+|**colossal**|extremely large|**epitome**|person or thing perfect ex of particular quality|
+|**uplifting**|udharinchadam|**plight**|unfortunate or difficult situation|
+|**perspiration**|the process of sweating|**souvenir**|a thing that is kep as a reminder of person or place or event|
+|**refute**|disprove|**acrophobia**|extreme fear of heights|
+|**beaming**|smiling broadly|**scrutinize**|critical observation or examination|
+|**bikering**|argue about pretty and trivial matters|**squating**|sit on one's heels bending on knees|
+|**trivial**|little value or importance|**crouching**|positioned by bending knees|
+|**patio**|outdoor space of an house|**slouching**|standing or sitting or moving in lazy way bending back|
+|**enthralling**|keeping someones interest ot attention completely|**kneeling**|sitting on knees|
+|**ogling**|provocating looks, greedy or interested looks at someone|**cling**|hold on tightly staying close to someone|
+|**euphemism**|a word or phrase used to avoid saying an unpleasant or offensive word|**recite**|say aloud|
+|**pun**|make a joke using words which sound alike but have different meanings|**coy**|pretending shy|
+|**sceptical**|not  easily convinced|**preliminary**|preparation before final act|
+|**entangled**|involved someone in difficulties or complicated circumstances from which it s difficult to escape|**moor**|open uncultivated upland|
+|**semantics**|defination|**intimidating**|frightening|
+|**retrospective**|lookong back or dealing with past events|**smirk**|smile in a irritating or silly way|
+|**twirling hair**|spin quickly and lightly|**boon**|something that is beneficial or helpful|
+|**clinging**|to hold fast , sticking or embracing to something closely|**seer**|a person with insight who sees visions of future|
+|**entwine**|to wrap around someone or something , allukupodam|**strand**|stuck with no way to getting anywhere|
+|**premordial**|in the earliest stage of development, beginning|**hinders**|make it difficult to happen|
+|**orators**|public speaker|**rendezvous**|meeting at an agreed time and place|
+|**subsides**|become less intense|**brooding**|showing deep thought about something that makes one worried|
+|**constricted**|process of becoming tighter and narrower|**immaculate**|perfectly clean|
+|**nudges**|a light touch or push|**tutelage**|authority over someone/guardianship|
+|**intuition**|ability to understand something without conscious reasoning|**foreground**|important feature|
+|**banging head against wall**|hitting head against wall|**crumbling**|breaking or falling apart into small pieces|
+|**transcription**|a written or printed version of something|**doctrine**|set of beliefs held by political party or other groups|
+|**orbs**|spherical object|**bosom**|women chest or breast|
+|**fawn**|young dear|**conch**|shankam|
+|**incomprehensible**|not able to understand|**sabotage**|destroy,damage|
+|**bruised**|body part crushed or pounded|**wrecked**|under the influence of alcohol|
+|**courtship period**|a period which couple develop romantic relationship before getting married|**entourage**|a group of people surrounding important person|
+|**obnoxious**|extremely unpleasant|**scorching sun**|very hot sun|
+|**reincarnation**|rebirth|**clocher**|bell shaped hat|
+|**angst**|a feeling of deep anxiety|**platonic**|intimate relation but not sexual|
+|**tranquility**|state of being calm|**opulent**|great wealth or luxury|
+|**grumpy**|bad-tempered and irritable|**staggering**|deeply shocking|
+|**forfeit**|lose or giveup as necessary consequence of something|**scathing**|severely critical|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+
